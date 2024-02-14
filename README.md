@@ -1,2 +1,2 @@
-# Criar-imagem-
-Um site de teste de habilidades para construção de competências em programação
+# Google App Script 
+Elaborando planilhas Google para prefeitura de Bertioga.
